@@ -36,9 +36,6 @@ In this lesson, I learned the theoretical concepts related to how projects are o
 - **📊 data Directory**:  
   Used for storing the main data of the project, such as data used for machine learning (ML).
 
-- **🛠️ migrations Directory (for web apps)**:  
-  Includes scripts for applying and recording changes to the database. Similar to the `scripts` directory.
-
 - **🌐 public or static Directory (for web apps)**:  
   Stores static files like images that are used directly in the browser. Deleting a file from this directory will also remove it from the website.
 
