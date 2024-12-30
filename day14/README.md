@@ -78,4 +78,4 @@ class Compresser:
 - Additionally, if changes are needed for compression or extraction functionality, they will only be made in the `Compresser` class, and the rest of the code will remain unaffected.
 
 #### tomorrow's program:
-                - - -
+Tomorrow, I'll dive into the Open-Closed Principle (OCP)
