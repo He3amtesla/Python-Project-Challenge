@@ -17,4 +17,4 @@ Today, I learned about the OCP (Open/Closed Principle). This principle states th
 
 🚀 **Tomorrow's Plan** (_Program for the New Year Ahead_):
 
-Tomorrow, I plan to study the LSP (Liskov Substitution Principle) and learn how it can help improve code structure.
+Browsing the contents of the past seven days
