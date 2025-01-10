@@ -74,4 +74,5 @@ and...
 ---
 
 ## 🔗 Project link:
-[https://lnkd.in/eJ_A97mT](https://lnkd.in/eJ_A97mT)
+[[https://lnkd.in/eJ_A97mT](https://lnkd.in/eJ_A97mT)
+](https://github.com/He3amtesla/RockPaperScissors-Game)
