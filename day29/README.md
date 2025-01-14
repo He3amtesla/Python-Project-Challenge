@@ -3,7 +3,7 @@
 ## Today's Learning Title: Functions vs Classes (2-2) & Intro to Password Generator Project
 
 ### What Did I Do?
-Today, unlike other days, I decided to write my documentation outdoors (in the park). However, due to the cold weather, I had to return shortly after starting 😅. Yesterday, I couldn’t fully complete the topic "Functions vs Classes," so today, I revisited and finished it. Additionally, I watched the introductory video for the practice project, **Password Generator**.
+Today, unlike other days, I decided to write my documentation outdoors (in the park). (Correction: due to the cold weather, I returned after writing for a short while :_(. ) Yesterday, I couldn’t fully complete the topic "Functions vs Classes," so today again, I practiced and finished it. I also watched the introductory video for the Password Generator practice project (yesterday's missed lesson has been made up for ✔️).
 
 ### Today's Learning Topics:
 - **Covering Classes and Functions in Python**
