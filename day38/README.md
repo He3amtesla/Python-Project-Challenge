@@ -11,6 +11,7 @@ With this command, all the dependencies of Streamlit and Streamlit itself will b
 Streamlit, like Jupyter Notebook and Lute, creates a local host from your system to display a graphical interface. When we make changes to our code, it can instantly reflect and display them (of course, we need to keep it running).  
 
 Streamlit is pure python.
+
 Using streamlit, we can create a web application.
 
 ```python
