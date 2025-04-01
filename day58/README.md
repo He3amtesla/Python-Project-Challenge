@@ -1,4 +1,3 @@
-
 ## Day 58 of the 66-Day Python Project Challenge 📅  
 (2025/3/19)  
 
